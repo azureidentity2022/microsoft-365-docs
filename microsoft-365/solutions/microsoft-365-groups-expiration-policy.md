@@ -43,7 +43,7 @@ It's important to know that expiration is turned off by default. Administrators 
 
 > [!NOTE]
 > Configuring and using the expiration policy for Microsoft 365 groups requires you to possess but not necessarily assign Azure AD Premium licenses for the members of all groups to which the expiration policy is applied. For more information, see [Getting started with Azure Active Directory Premium](/azure/active-directory/active-directory-get-started-premium).
-
+This feature requires AAD Premium (P1) as well as requiring the group owners to have an O365 Exchange license.
 ## Who can configure and use the Microsoft 365 groups expiration policy?
 
 |Role|What they can do|
